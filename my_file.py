@@ -3,4 +3,5 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-print "hello world"
+def print_hi():
+	print "hello world"
