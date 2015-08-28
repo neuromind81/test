@@ -5,6 +5,3 @@ import matplotlib.pyplot as plt
 
 def print_hi():
 	print "hello world"
-
-
-print "lxjkfjdsklfj!"
